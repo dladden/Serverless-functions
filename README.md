@@ -14,7 +14,7 @@ Finally you can list all local installed packed with command:<br>
 
 With this project React or Gatsby can also be used as Netlify CLI will be able to tell which project is being used.
 
-Local Packe:
+Local Package:
 Are only available to the project they are installed in
 
 Serverless has transformed application development by eliminating the need to provision and manage any underlying infrastructure. The current serverless ecosystem has grown more mature, and it now has considerable overlap with the world of container-based technologies. The wide range of available options has led over half of organizations operating in each cloud to adopt serverless.
