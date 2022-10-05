@@ -1,3 +1,5 @@
+//
+
 const items = [
   {
     id: "recmg2a1ctaEJNZhu",
@@ -32,5 +34,5 @@ const items = [
     price: 9.99,
   },
 ];
-
+//exporting the items as items
 module.exports = items;
