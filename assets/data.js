@@ -1,4 +1,4 @@
-//
+//note that image it set up as an object, this is done for practice to be used with air table
 
 const items = [
   {

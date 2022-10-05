@@ -20,7 +20,7 @@ exports.handler = async (event, context) => {
 // };
 
 //This is Node Ecosystem. So syntax is exports.handler (using handler function) and then what is being exported.
-//async looks for a return in parameters event, context, and callback (cb)
+//async used for awaiting synchronous response it looks for a return in parameters event, context, and callback (cb)
 //event is used to pass info about the request
 //context is where the function is running
 //statusCode: tells if the function (200 is success)
