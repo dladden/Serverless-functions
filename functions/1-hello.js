@@ -2,7 +2,8 @@
 //http://localhost:8888/.netlify/functions/1-hello
 const person = { name: "Deni" };
 
-exports.handler = async (event, context) => {
+exports.handler = async (event, context, cb) => {
+  //event log shows information about the object in terminal
   //   console.log(event);
   //   console.log(context);
   return {

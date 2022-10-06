@@ -3,11 +3,12 @@
 //and export it out.
 
 //Additionally, you can create your own header which allows you to change information about the status of the request
-//In this instance we set access to all '*' with the 'Access-Control-Allow-Origin':'*',
+//In this instance we set access to all '*' with the 'Access-Control-Allow-Origin':'*'. Now data will be accessible in any project.
 
 const items = require("../assets/data");
 
 exports.handler = async (event, context, cb) => {
+  //event log shows information about the object
   //   console.log(event);
   //   console.log(context);
   return {
