@@ -3,7 +3,10 @@ const result = document.querySelector(".result");
 
 const fetchProducts = async () => {
   try {
-    const { data } = await axios.get("/api/3-airtable");
+    //example with two serverless functions airtable.js and product.js
+    // const { data } = await axios.get("/api/3-airtable");
+    //example with one serverless function airtable-product-comb.js
+    const { data } = await axios.get("/api/3-airtable-product-comb");
     // console.log(data);
     //every item is an object and it is used as a link since we are taking it to the product.html page
     //This is done with Query String Parameter "?"

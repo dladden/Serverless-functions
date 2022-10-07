@@ -4,7 +4,7 @@ const result = document.querySelector(".result");
 const fetchData = async () => {
   //   console.log("test");
   try {
-    const { data } = await axios.get("/api/2-basic-api"); //destructuring the data after pulling it
+    const { data } = await axios.get("/api/2-basic-api"); //destructuring the data after pulling it using the axios.get
     //storing data in the product and using the map to iterate through the array
     const products = data
       .map((product) => {
