@@ -3,33 +3,33 @@
 const items = [
   {
     id: "recmg2a1ctaEJNZhu",
-    name: "utopia sofa",
+    name: "Dino Taco Holder",
     image: {
-      url: "https://dl.airtable.com/.attachments/6ac7f7b55d505057317534722e5a9f03/9183491e/product-3.jpg",
+      url: "https://dl.airtable.com/.attachments/66077c6aa61def492c4c712a781bf196/8a6c1336/taco_holder.jpg",
     },
     price: 39.95,
   },
   {
     id: "recvKMNR3YFw0bEt3",
-    name: "entertainment center",
+    name: "Bacon Bandages",
     image: {
-      url: "https://dl.airtable.com/.attachments/da5e17fd71f50578d525dd5f596e407e/d5e88ac8/product-2.jpg",
+      url: "https://dl.airtable.com/.attachments/fdc2b366b199160737941c8b8f41b4b5/8235d75e/band-aids-bacon-strips.png",
     },
     price: 29.98,
   },
   {
     id: "recxaXFy5IW539sgM",
-    name: "albany sectional",
+    name: "Strange Chia Pet",
     image: {
-      url: "https://dl.airtable.com/.attachments/05ecddf7ac8d581ecc3f7922415e7907/a4242abc/product-1.jpeg",
+      url: "https://dl.airtable.com/.attachments/1c2da176bf4c36ad10153622d80b8ffc/7d0823ad/chia_pet.webp",
     },
     price: 10.99,
   },
   {
     id: "recyqtRglGNGtO4Q5",
-    name: "leather sofa",
+    name: "Pet Butler",
     image: {
-      url: "https://dl.airtable.com/.attachments/3245c726ee77d73702ba8c3310639727/f000842b/product-5.jpg",
+      url: "https://dl.airtable.com/.attachments/59e03b3962b440bef86a6666ee076e12/4cf3b252/Pet-Butler.jpg",
     },
     price: 9.99,
   },
