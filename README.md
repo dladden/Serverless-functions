@@ -1,6 +1,6 @@
 # Serverless Functions
 
-![Serverless logo](/serverless-functions/assets/img/Asset1.png?raw=true "Sereverless logo")
+![Serverless logo](/assets/img/Asset1.png "Sereverless logo")
 
 ## About Serverless Functions
 
