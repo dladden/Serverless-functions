@@ -1,5 +1,7 @@
 # Serverless Functions
 
+![Serverless logo](/serverless-functions/assets/img/Asset1.png?raw=true "Sereverless logo")
+
 ## About Serverless Functions
 
 Serverless has transformed application development by eliminating the need to provision and manage any underlying infrastructure. The current serverless ecosystem has grown more mature, and it now has considerable overlap with the world of container-based technologies. The wide range of available options has led over half of organizations operating in each cloud to adopt serverless.
