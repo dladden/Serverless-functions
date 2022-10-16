@@ -13,12 +13,14 @@ exports.handler = async (event, context, cb) => {
   };
 };
 
-// exports.handler = async (event, context, cb) => {
-//   cb(null, {
-//     statusCode: 200,
-//     body: "First Function Example using a Call Back",
-//   });
-// };
+/*
+exports.handler = async (event, context, cb) => {
+  cb(null, {
+    statusCode: 200,
+    body: "First Function Example using a Call Back",
+  });
+};
+*/
 
 //This is Node Ecosystem. So syntax is exports.handler (using handler function) and then what is being exported.
 //async used for awaiting synchronous response it looks for a return in parameters event, context, and callback (cb)
